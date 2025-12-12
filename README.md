@@ -1,4 +1,4 @@
-                                                  #Twitter Centiment Analysis:
+#TWITTER CENTIMENT ANALYSIS:
 
 This project performs sentiment analysis on Twitter text data using a machine learning model (Logistic Regression with TF-IDF vectorization).
 
